@@ -1,0 +1,76 @@
+---
+title: "Ethnicity-BMI lit review"
+author: "Boris M Fazio"
+date: "2017-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Loosely following [Ten Simple Rules for Writing a Literature Review](https://dx.doi.org/10.1371/journal.pcbi.1003149)
+
+Idea! Shall we look at childhood obesity exclusively?
+
+### 1. Define a topic
+
+Relationship between ethnicity and obesity as measured by BMI
+
+### 2. Search the literature
+
+#### Google Scholar
+
+Searching only in English, French, German, Italian and Spanish. Exclude patents.
+
+obesity ethnicity
+http://www.sciencedirect.com/science/article/pii/S0277953603002880
+http://care.diabetesjournals.org/content/29/7/1585.short
+http://onlinelibrary.wiley.com/doi/10.1038/oby.2008.398/full
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2524.2008.00768.x/full
+http://onlinelibrary.wiley.com/doi/10.1038/oby.2005.145/full
+http://jamanetwork.com/journals/jama/fullarticle/202627
+http://jamanetwork.com/journals/jamapediatrics/fullarticle/205040
+http://search.proquest.com/openview/0d818fcbfeeac74665474acc1efb1189/1?pq-origsite=gscholar&cbl=46838
+http://onlinelibrary.wiley.com/doi/10.1038/oby.2003.20/full
+http://www.tandfonline.com/doi/abs/10.1080/03014460801949870
+http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2011.300452
+
+obesity ethnicity peru
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0054056
+https://escholarship.org/uc/item/3rb6f8mm
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035127
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050252
+http://onlinelibrary.wiley.com/doi/10.1111/j.1751-7176.2010.00337.x/full
+http://care.diabetesjournals.org/content/33/6/1385.short
+http://www.sciencedirect.com/science/article/pii/S2211816016000041
+http://www.sciencedirect.com/science/article/pii/S2211816013001622
+http://onlinelibrary.wiley.com/doi/10.1002/oby.21401/abstract
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395222/
+http://www.scielosp.org/scielo.php?script=sci_arttext&pid=S1020-49892015001100006
+
+obesidad etnicidad peru
+http://bibdigital.flacso.edu.mx:8080/dspace/handle/123456789/4135
+http://www.scielo.org.pe/scielo.php?pid=S1726-46342014000100011&script=sci_arttext
+http://www.grade.edu.pe/upload/publicaciones/archivo/download/pubs/externas/MV-Etnicidad%20como%20determinante.pdf
+http://www.rpmesp.ins.gob.pe/index.php/rpmesp/article/viewFile/2721/2670
+http://www.rpmesp.ins.gob.pe/index.php/rpmesp/article/viewFile/2720/2669
+CRITERIOS DE SÍNDROME METABÓLICO Y OBESIDAD ABDOMINAL PARA POBLACIONES ANDINAS
+Las actuaciones sobre el nivel educativo de los padres podrían ser prioritarias en la intervención sobre los factores de riesgo de la obesidad
+
+#### Medline
+
+https://www.ncbi.nlm.nih.gov/pubmed/26699094
+https://www.ncbi.nlm.nih.gov/pubmed/27931993
+https://www.ncbi.nlm.nih.gov/pubmed/25019336
+https://www.ncbi.nlm.nih.gov/pubmed/22433623
+https://www.ncbi.nlm.nih.gov/pubmed/24634406
+https://www.ncbi.nlm.nih.gov/pubmed/27484326
+https://www.ncbi.nlm.nih.gov/pubmed/27256926
+https://www.ncbi.nlm.nih.gov/pubmed/25222761
+https://www.ncbi.nlm.nih.gov/pubmed/23850108
+https://www.ncbi.nlm.nih.gov/pubmed/28296752
+
+#### Scopus
+
+#### Web of Science
